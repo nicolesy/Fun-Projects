@@ -1,5 +1,7 @@
 # lab_26_adventure_pdxtrail.py
 
+# This is a game that is inspired by "The Oregon Trail". The goal is to make your way through Portland.
+
 import random
 import ascii_art
 import time
